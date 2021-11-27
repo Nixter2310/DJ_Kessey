@@ -1,0 +1,369 @@
+@media screen and (max-width: 1440px) {
+    #hero-image img {
+        height: 750px;
+    }
+    #logo img {
+        height: 280px;
+        width: 280px;
+    }
+    .topnav {
+        left: 450px;
+    }
+    .topnav a {
+        font-size: 15px;
+    }
+    #headshot {
+        margin-left: 7%;
+    }
+    #headshot img {
+        height: 520px;
+        width: 550px;
+    }
+    p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    h4 {
+        font-size: 25px;
+    }
+    #pink_line_1 img {
+        width: 665px;
+    }
+    #title_1 {
+        margin-top: 120px;
+    }
+    #blue_line_1 {
+        margin-top: 10px;
+    }
+    #blue_line_1 img {
+        width: 660px;
+    }
+    iframe {
+        width: 70%;
+    }
+    #title_2 {
+        margin-top: -50px;
+    }
+    #gigs #blue_line_1 img {
+        width: 530px;
+    }
+    #gig_1 {
+        margin-left: -320px;
+    }
+    #gig_1, #gig_2, #gig_3 {
+        width: 27%;
+        margin-top: 125px;
+    }
+    #gallery img {
+        left: 210px;
+    }
+    #contact #blue_line_1 img {
+        width: 430px;
+    }
+    #socials img {
+    height: 135px;
+    width: 500px;
+        margin-right: -5px;
+}
+    #socials p {
+        width: 33%;
+        margin-top: 300px;
+    }
+    input[type=text], select, textarea, input[type=submit] {
+        font-size: 20px;
+    }
+    form {
+        margin-left: 200px;
+    }
+    #footer {
+        width: 1423px;
+    }
+    #footer h6 {
+        font-size: 15px;
+        font-weight: lighter;
+    }
+}
+@media screen and (max-width: 1360px) {
+    .topnav {
+        left: 360px;
+    }
+    #blue_line_1 img {
+        width: 600px;
+    }
+    #gigs #blue_line_1 img {
+        width: 500px;
+    }
+    #gig_1, #gig_2, #gig_3 {
+        width: 28%;
+}
+    #gallery img {
+        left: 200px;
+    }
+    #contact #blue_line_1 img {
+        width: 400px;
+    }
+    #socials p {
+        margin-top: 325px;
+    }
+    #socials img {
+    margin-right: -33px;
+    }
+    form {
+        margin-left: 175px;
+        margin-top: 275px;
+    }
+    #footer {
+        width: 1345px;
+    }
+}
+@media screen and (max-width: 1024px) and (max-height: 768px) and (orientation: landscape) {
+    .topnav {
+        display: none;
+    }
+    #logo img {
+        height: 220px!important;
+        width: 220px;
+    }
+    #hero-image img {
+        height: 550px;
+    }
+    #headshot {
+        margin-left: 5%;
+        margin-top: 100px;
+    }
+    #headshot img {
+        height: 420px;
+        width: 450px;
+    }
+    #text {
+        float: right;
+        width: 40%;
+        margin-right: 5%;
+        margin-top: 80px;
+    }
+    p {
+        font-size: 17px;
+    }
+    #pink_line_1 img {
+        width: 460px;
+    }
+    #title_1 {
+        margin-top: 200px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    #blue_line_1 img {
+        width: 500px;
+    }
+    #gigs #blue_line_1 img {
+        width: 380px;
+    }
+    #gig_1, #gig_2, #gig_3 {
+        width: 26%;
+        margin-top: 100px;
+    }
+    #gig_1 {
+        margin-left: -197px;
+    }
+    #gallery img {
+        left: 150px;
+        margin-top: 120px;
+    }
+    #gallery img:nth-child(2) {
+        margin-top: 90px;
+    }
+    #gallery img:nth-child(3) {
+        margin-top: 90px;
+    }
+    #gallery img:nth-child(4) {
+        margin-top: 90px;
+    }
+    #title_3 {
+        margin-top: 80px;
+    }
+    #contact #blue_line_1 img {
+        width: 300px;
+    }
+    form {
+        margin-left: 100px;
+        margin-top: 220px;
+    }
+    #socials p {
+        margin-top: 260px;
+        width: 30%;
+    }
+    #socials img {
+        height: 105px;
+        width: 384px;
+        margin-right: -60px;
+    }
+    #footer {
+        width: 1008px;
+    }
+}
+@media screen and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
+    .topnav {
+        display: none;
+    }
+    #hero-image img {
+        height: 460px;
+    }
+    #logo img {
+        height: 200px!important;
+        width: 200px;
+    }
+    #headshot {
+        margin-left: 23%;
+        margin-top: 80px;
+    }
+    #headshot img {
+        height: 370px;
+        width: 400px;
+    }
+    #text {
+        float: right;
+        width: 74%;
+        margin-right: 13%;
+        margin-top: 50px;
+    }
+    p {
+        font-size: 17px;
+    }
+    #pink_line_1 img {
+        width: 660px;
+    }
+    #title_1 {
+        margin-top: 100px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    #blue_line_1 img {
+        width: 450px;
+    }
+    #gigs #blue_line_1 img {
+        width: 330px;
+    }
+    #gig_1 {
+        margin-left: -257px;
+    }
+    #gig_1, #gig_2, #gig_3 {
+        margin-top: 100px;
+        float: none;
+    }
+    #gallery img {
+        left: 110px;
+        margin-top: 110px;
+    }
+    #gallery img:nth-child(2) {
+        margin-top: 50px;
+    }
+    #gallery img:nth-child(3) {
+        margin-top: 50px;
+    }
+    #gallery img:nth-child(4) {
+        margin-top: 50px;
+    }
+    #title_3 {
+        margin-top: 80px;
+    }
+    #contact #blue_line_1 img {
+        width: 280px;
+    }
+    .container {
+        width: 85%;
+    }
+    form {
+        margin-left: 100px;
+        margin-top: 220px;
+    }
+    #socials {
+        display: none;
+}
+    #footer {
+        width: 752px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .topnav {
+        display: none;
+    }
+    #hero-image img {
+        height: 220px;
+    }
+    #logo img {
+        height: 130px!important;
+        width: 130px;
+    }
+    #headshot img {
+        height: 230px;
+        width: 250px;
+    }
+    #headshot {
+        margin-left: 16%;
+        margin-top: 50px;
+    }
+    p {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    #text {
+        width: 81%;
+        margin-right: 9%;
+        margin-top: 33px;
+    }
+    #pink_line_1 img {
+        width: 330px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    #blue_line_1 img {
+        width: 320px;
+    }
+    iframe:nth-child(1) {
+        padding-top: 60px;
+    }
+    #gigs #blue_line_1 img {
+        width: 220px;
+    }
+    #gig_1, #gig_2, #gig_3 {
+        width: 55%;
+    }
+    #gig_1 {
+        margin-top: 80px;
+        margin-left: -158px;
+    }
+    #gig_2, #gig_3 {
+        margin-top: 20px;
+        margin-left: 65px;
+    }
+    #gallery img {
+        left: 35px;
+        margin-top: 60px;
+        width: 80%;
+    }
+    #contact #blue_line_1 img {
+        width: 180px;
+    }
+    #title_3 {
+        margin-top: 50px;
+    }
+    .container {
+        width: 90%;
+    }
+    form {
+        margin-left: 30px;
+        margin-top: 150px;
+    }
+    input[type=text], select, textarea, input[type=submit] {
+        font-size: 15px;
+    }
+    #footer {
+        width: 360px;
+    }
+    #footer h6 {
+        font-size: 13px;
+    }
+}
